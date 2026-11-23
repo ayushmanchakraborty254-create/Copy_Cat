@@ -5,9 +5,9 @@ import unittest
 
 from _load import ROOT
 
-SKILLS = ["replica-recon", "replica-architect", "replica-design", "replica-build",
-          "replica-backend", "replica-test", "replica-diff", "replica-entrepreneur",
-          "replica-brand", "replica-launch", "replica-deploy"]
+SKILLS = ["copycat-recon", "copycat-architect", "copycat-design", "copycat-build",
+          "copycat-backend", "copycat-test", "copycat-diff", "copycat-entrepreneur",
+          "copycat-brand", "copycat-launch", "copycat-deploy"]
 ABOUT = ("Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, "
          "test it for bugs, then fix what its users hate. Free, MIT.")
 

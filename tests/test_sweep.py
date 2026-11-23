@@ -7,7 +7,7 @@ from contextlib import redirect_stdout, redirect_stderr
 
 from _load import load
 
-sweep = load("replica-brand", "sweep")
+sweep = load("copycat-brand", "sweep")
 
 
 def put(root, rel, text, binary=False):
